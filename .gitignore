@@ -1,0 +1,8 @@
+plots/
+*.png
+.idea/
+Puczkowski_Jasztal*.*
+spark-warehouse/
+__pycache__/
+#data/household*
+#data/weatherAUS.csv

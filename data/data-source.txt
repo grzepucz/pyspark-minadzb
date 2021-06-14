@@ -1,0 +1,2 @@
+https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
